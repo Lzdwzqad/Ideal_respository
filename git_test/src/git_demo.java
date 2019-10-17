@@ -6,6 +6,7 @@
 public class git_demo {
 
     public static void main(String[] args) {
-        System.out.println("git idea test update");
+        System.out.println("git idea test update ");
+        System.out.println("git idea 1 zuyuan test update ");
     }
 }
