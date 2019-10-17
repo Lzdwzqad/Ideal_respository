@@ -9,5 +9,7 @@ public class git_demo {
         System.out.println("git idea test update");
 
         System.out.println("组长来了");
+        System.out.println("git idea test update ");
+        System.out.println("git idea 1 zuyuan test update ");
     }
 }
